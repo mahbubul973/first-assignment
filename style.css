@@ -52,3 +52,39 @@ h1 p{
 .ash-color{
     color: slategray;
 }
+.yellow-color{
+    color: orange;
+}
+.global-class{
+    padding: 5%;
+    width: 50%;
+}
+.mytable{
+    padding: 25px;
+    background-color: rgb(0, 0, 0);
+    margin-top: 20px;
+}
+.tablecontainer{
+    text-align: center;
+    color: blanchedalmond;
+    padding: 50px;
+    margin: auto;
+}
+.fotter{
+    color: red;
+}
+.fontstyle{
+   font-family: 'Cookie', cursive; 
+}
+#midwriting{
+    margin: auto;
+}
+#mission{
+    background-color: rgba(218, 237, 245, 0.986);
+}
+#missiontwo{
+    background-color: rgba(205, 92, 92, 0.096);
+}
+#missionthree{
+    background-color: rgba(205, 92, 92, 0.178);
+}
