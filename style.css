@@ -24,7 +24,7 @@ section{
     padding: 3%;
 }
 .half-width img{
-max-width: 75%;
+max-width: 100%;
 height: auto;
 }
 .orange-word{
@@ -37,7 +37,18 @@ h1 p{
     width: 33%;
     padding: 5%;
 }
-.third-width{
+.third-width img{
     max-width: 70%;
     height: auto;
+}
+.link-anchor{
+    text-decoration: none;
+    background-color: rgba(255, 0, 0, 0.863);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.ash-color{
+    color: slategray;
 }
