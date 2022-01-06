@@ -27,3 +27,17 @@ section{
 max-width: 75%;
 height: auto;
 }
+.orange-word{
+    color: orange;
+}
+h1 p{
+    text-align: center;
+}
+.third-width{
+    width: 33%;
+    padding: 5%;
+}
+.third-width{
+    max-width: 70%;
+    height: auto;
+}
